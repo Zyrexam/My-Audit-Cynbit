@@ -1,0 +1,46 @@
+# Local working material - not part of the submitted repository.
+# The submitted repo carries the deliverable only: report/findings.md and report/recommendations.md
+
+# Research toolkit, probes, fixtures and raw captures
+research/
+
+# Longer-form drafts kept for my own reference
+README.md
+report/technical-audit.md
+report/methodology.md
+docs/
+
+# Agent working notes and local tracker
+.scratch/
+AGENTS.md
+docs/agents/
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log*
+.pnpm-store/
+
+# Env / secrets
+.env
+.env.*
+!.env.example
+
+# Build output
+dist/
+build/
+.next/
+out/
+.vercel/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+
+# Misc
+*.tmp
+*.bak
+coverage/
