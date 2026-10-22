@@ -1,39 +1,3 @@
-# Local working material - not part of the submitted repository.
-# The submitted repo carries the deliverable only: findings.md and recommendations.md
-
 README.md
 report/
 docs/
-research/
-.scratch/
-AGENTS.md
-
-# Node
-node_modules/
-npm-debug.log*
-yarn-error.log*
-.pnpm-store/
-
-# Env / secrets
-.env
-.env.*
-!.env.example
-
-# Build output
-dist/
-build/
-.next/
-out/
-.vercel/
-
-# Editor / OS
-.vscode/
-.idea/
-.DS_Store
-Thumbs.db
-*.swp
-
-# Misc
-*.tmp
-*.bak
-coverage/
