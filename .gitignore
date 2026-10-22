@@ -1,19 +1,12 @@
 # Local working material - not part of the submitted repository.
-# The submitted repo carries the deliverable only: report/findings.md and report/recommendations.md
+# The submitted repo carries the deliverable only: findings.md and recommendations.md
 
-# Research toolkit, probes, fixtures and raw captures
-research/
-
-# Longer-form drafts kept for my own reference
 README.md
-report/technical-audit.md
-report/methodology.md
+report/
 docs/
-
-# Agent working notes and local tracker
+research/
 .scratch/
 AGENTS.md
-docs/agents/
 
 # Node
 node_modules/
